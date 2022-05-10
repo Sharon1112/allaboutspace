@@ -1,0 +1,132 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+#title{
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 3px;
+    background-color: lavender;
+}
+
+nav{
+    position:fixed;
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+    background-color:white;
+    overflow:hidden;
+    color:black;
+    padding:0;
+    text-align:center;
+    margin:0;
+    transition:1s;
+}
+
+nav.black ul{
+    background:#000;
+}
+
+nav ul li{
+    display: inline;
+    padding: 4px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:black;
+    font-size: 10px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#home{
+  border: 5px solid rgb(233, 163, 250);
+  padding-left: 4px;
+  padding-right: 4px;
+  float:none;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  background-color: rgb(41, 92, 150);
+  color: white;
+    
+} 
+
+#whatisspace
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(92, 53, 129, 0.705);
+    color:white;
+}
+
+
+#Space_radiation
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(92, 53, 129, 0.705);
+    color:white;
+}
+
+
+#Dark_matter_and_energy
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(92, 53, 129, 0.705);
+    color:white;
+}
+
+
+#black_holes
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(92, 53, 129, 0.705);
+    color:white;
+}
+
+
+#Stars_planets_asteriods_and_comets
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgba(92, 53, 129, 0.705);
+    color:white;
+}
+
+#galaxies_and_quasars
+{
+    border: 5px solid rgb(248, 245, 245);
+    padding-left: 4px;
+    padding-right: 4px;
+    float:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color:rgba(92, 53, 129, 0.705);
+    color:white;
+}
